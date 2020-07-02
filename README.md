@@ -1,2 +1,2 @@
 # analise-de-dados-semi-estruturado-
-Análise de dados + dashboards 
+Análise de dados + dashboards + futuras modelagens  
