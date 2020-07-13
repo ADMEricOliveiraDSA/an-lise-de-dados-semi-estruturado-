@@ -1,2 +1,2 @@
-# analise-de-dados-semi-estruturado-
+# notebooks-de-estudos-praticados-por-mim
 Análise de dados + dashboards + futuras modelagens  
