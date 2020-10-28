@@ -6,3 +6,4 @@ matplotlib
 Seaborn
 Scikit-learn 
 SQLalchemy
+flask
