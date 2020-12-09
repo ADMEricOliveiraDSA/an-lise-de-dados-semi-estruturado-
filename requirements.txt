@@ -1,9 +1,0 @@
-Python 3.6 >=
-pandas
-Numpy
-Scipy 
-matplotlib
-Seaborn
-Scikit-learn 
-SQLalchemy
-flask
