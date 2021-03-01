@@ -7,7 +7,7 @@ attrs==20.3.0
 audiostream==0.2
 backcall==0.2.0
 beautifulsoup4==4.9.3
-bleach==3.2.1
+bleach==3.3.0
 Brotli==1.0.9
 certifi==2020.11.8
 cffi==1.14.4
